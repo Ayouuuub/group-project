@@ -1,0 +1,296 @@
+.top-bar {
+    height: 300px;
+}
+
+.top-image {
+    background-image: url(https://images.pexels.com/photos/4944435/pexels-photo-4944435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 300px;
+    background-size: cover;
+    filter: brightness(30%) contrast(100%) saturate(100%);
+    background-position: center center;
+}
+
+.Titles {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top: -206px;
+    position: relative;
+    display: flow;
+}
+
+
+.subtitle{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}
+
+.div-discount {
+    background-color: #F3F3F3;
+    margin-top: -23px;
+    padding: 60px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.discount-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 31px;
+}
+ .discount-card-1, .discount-card-3 {
+    height: 281px;
+    width: 300px;
+    background-color: white;
+    margin-top: 30px;
+ }
+
+ .discount-card-2 {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-top: 30px;
+ }
+
+ /* .discount-card-1 {
+    transform: scale(1.1);
+ } */
+
+ .book-btn {
+    background-color: #D7272A;
+    width: 200px;
+    padding: 12px;
+    border: solid;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+ }
+
+ .card-title {
+    color: white;
+    position: relative;
+    margin-top: -59px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.card-img {
+    background-image: url(https://images.pexels.com/photos/4944435/pexels-photo-4944435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 59px;
+    width: 100%;
+    background-size: cover;
+    filter: brightness(30%) contrast(100%) saturate(100%);
+    background-position: center center;
+}
+ .card-title-2 {
+   color: white;
+   position: relative;
+   margin-top: -73px;
+   position: relative;
+}
+.card-img-2 {
+    background-image: url(https://images.pexels.com/photos/4944435/pexels-photo-4944435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 100px;
+    width: 100%;
+    background-size: cover;
+    filter: brightness(30%) contrast(100%) saturate(100%);
+    background-position: center center;
+}
+.card-text {
+    padding: 21px;
+}
+
+.card-subtitle {
+    font-style: italic;
+}
+
+.unlimited-card-1, .unlimited-card-3 {
+    height: 445px;
+    width: 300px;
+    background-color: white;
+    margin-top: 30px;
+ }
+.unlimited-card-2{
+    height: 487px;
+    width: 300px;
+    background-color: white;
+    margin-top: 30px;
+ }
+
+ .unlimited-card-img {
+    background-image: url(https://images.pexels.com/photos/3838937/pexels-photo-3838937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 153px;
+    width: 100%;
+    background-size: cover;
+    filter: brightness(30%) contrast(100%) saturate(100%);
+    background-position: center center;
+ }
+
+ .unlimited-card-title {
+    color: white;
+    margin-top: -132px;
+    position: relative;
+}
+
+
+ .unlimited-card-title-2 {color: white;margin-top: -151px;position: relative;}
+.unlimited-card-img-2 {
+    background-image: url(https://images.pexels.com/photos/5327556/pexels-photo-5327556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 218px;
+    width: 100%;
+    background-size: cover;
+    filter: brightness(30%) contrast(100%) saturate(100%);
+    background-position: center center;
+}
+.group-programs {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 31px;
+}
+
+.group-program-1:hover {
+    transform: scale(1.1);
+}
+
+ .group-program-1, .group-program-2, .group-program-3, .group-program-4, .group-program-5, .group-program-6 {
+    height: 357px;
+    width: 300px;
+    background-color: white;
+    margin-top: 30px;
+ }
+
+.blue-bg {
+    background-color: #111122;
+    height: 30px;
+    width: 100%;
+    color: white;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.program-title {
+    margin-top: -6px;
+}
+
+.program-price {
+    font-size: xx-large;
+    margin-top: 15px;
+}
+
+.red-bg{
+    background-color: #D7272A;
+    height: 3px;
+    width: 100%; 
+}
+
+.img-bg-common {
+    height: 100px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.img-bg {
+    background-image: url(https://images.pexels.com/photos/5327556/pexels-photo-5327556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+.img-bg-1 {
+    background-image: url(https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+.img-bg-2 {
+    background-image: url(https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.img-bg-3 {
+    background-image: url(https://images.pexels.com/photos/5384552/pexels-photo-5384552.jpeg?auto=compress&cs=tinysrgb&w=800);
+}
+.img-bg-4 {
+    background-image: url(https://images.pexels.com/photos/6787202/pexels-photo-6787202.jpeg?auto=compress&cs=tinysrgb&w=800);
+}
+.img-bg-5 {
+    background-image: url(https://images.pexels.com/photos/7991683/pexels-photo-7991683.jpeg?auto=compress&cs=tinysrgb&w=800);
+}
+.img-bg-6 {
+    background-image: url(https://images.pexels.com/photos/1300526/pexels-photo-1300526.jpeg?auto=compress&cs=tinysrgb&w=800);
+}
+
+
+.contact{
+    height: 200px;
+    width: 100%;
+    background-color: #D7272A;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 49px;
+}
+
+.contact-btn{
+    cursor: pointer;
+    border: solid;
+    border-color: white;
+    background: none;
+    padding: 10px 20px;
+    margin-top: 90px;
+    margin-left: 213px;
+    color: white;
+    font-weight: 800;
+}
+
+.contact-form {
+    display: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.input {
+    width: 400px;
+    height: 40px;
+    padding-left: 10px;
+    background: none;
+    font-weight: 700;
+}
+
+.message {
+    width: 400px;
+    padding-left: 11px;
+    background: none;
+    font-weight: 700;
+}
+
+ .map-img {
+    background-image: url(https://images.pexels.com/photos/21014/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.3;
+    height: 532px;
+}
+
+.form {
+    position:relative;
+    margin-top: -549px;
+    padding: 29px;
+}
+
+.message-btn {
+    background-color: #D7272A;
+    width: 200px;
+    padding: 12px;
+    border: solid;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+ }
+.send-message {
+    display: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
